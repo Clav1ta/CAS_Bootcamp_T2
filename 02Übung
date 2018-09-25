@@ -1,0 +1,2 @@
+30 11 * * * say "hello you"
+30 9 * * 1 say "aufwachen, die woche hat begonnen"
