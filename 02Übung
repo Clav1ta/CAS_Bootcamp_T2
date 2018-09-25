@@ -1,2 +1,3 @@
-30 11 * * * say "hello you"
-30 9 * * 1 say "aufwachen, die woche hat begonnen"
+* 2 * * * say "hello you"
+30 11 * * * say "hello"
+30 9 * * 1 -v Anna say "aufwachen, die woche hat begonnen"
